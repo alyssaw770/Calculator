@@ -1,2 +1,2 @@
 # Calculator
-Build a calculator in C#. It includes console.writeline, console.readline, and if statements.
+Built a calculator in C#. It includes Console.WriteLine, Console.ReadLine, and if statements.
