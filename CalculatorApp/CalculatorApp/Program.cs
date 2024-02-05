@@ -10,7 +10,7 @@ class Program
         int num1;
         int num2;
         int answer;
-        string selection;
+        string? selection;
 
         Console.WriteLine("Welcome to The Calculator App!");
 
@@ -20,7 +20,7 @@ class Program
         Console.WriteLine("Enter another number:");
         num2 = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("Select a for addition, s for subtraction, m for multiplication, and d for division.");
+        Console.WriteLine("Select a for addition, s for subtraction, m for multiplication, and any other key for division.");
 
         selection = Console.ReadLine();
 
