@@ -1,0 +1,15 @@
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/bin/Debug/net7.0/CalculatorApp
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/bin/Debug/net7.0/CalculatorApp.deps.json
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/bin/Debug/net7.0/CalculatorApp.runtimeconfig.json
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/bin/Debug/net7.0/CalculatorApp.dll
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/bin/Debug/net7.0/CalculatorApp.pdb
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/CalculatorApp.csproj.AssemblyReference.cache
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/CalculatorApp.AssemblyInfo.cs
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/CalculatorApp.dll
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/refint/CalculatorApp.dll
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/CalculatorApp.pdb
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/CalculatorApp.genruntimeconfig.cache
+/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/Debug/net7.0/ref/CalculatorApp.dll
