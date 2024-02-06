@@ -44,7 +44,6 @@ class Program
 
         Console.WriteLine("The answer is " + answer);
 
-        Console.ReadKey();
     }
 }
 

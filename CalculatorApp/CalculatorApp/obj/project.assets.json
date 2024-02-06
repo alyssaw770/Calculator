@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/CalculatorApp.csproj",
+      "projectUniqueName": "/Users/alyssawilliams/Calculator/CalculatorApp/CalculatorApp/CalculatorApp.csproj",
       "projectName": "CalculatorApp",
-      "projectPath": "/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/CalculatorApp.csproj",
+      "projectPath": "/Users/alyssawilliams/Calculator/CalculatorApp/CalculatorApp/CalculatorApp.csproj",
       "packagesPath": "/Users/alyssawilliams/.nuget/packages/",
-      "outputPath": "/Users/alyssawilliams/C#_Projects/Calculator/CalculatorApp/CalculatorApp/obj/",
+      "outputPath": "/Users/alyssawilliams/Calculator/CalculatorApp/CalculatorApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alyssawilliams/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
